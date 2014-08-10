@@ -1,4 +1,4 @@
-Basic configuration for setting for adding a new site in [VVV}(https://github.com/Varying-Vagrant-Vagrants/VVV/).
+Basic configuration for setting for adding a new site in [VVV](https://github.com/Varying-Vagrant-Vagrants/VVV/).
 
 ### Instructions:
 * In VVV's www directory, create a new folder and give it a name.
