@@ -1,5 +1,7 @@
 Basic configuration for setting for adding a new site in [VVV](https://github.com/Varying-Vagrant-Vagrants/VVV/).
 
+For more information on how to use this to create new sites, see [my article on using Vagrant in Torque](http://torquemag.io/getting-started-vagrant-local-development/).
+
 ### Instructions:
 * In VVV's www directory, create a new folder and give it a name.
 * Add and configure WordPress in that directory according to your personal taste
